@@ -1,0 +1,6 @@
+{
+    "user": "root",
+    "password": "docker1",
+    "host": "172.17.0.2",
+    "database": "CochesDB"
+}
